@@ -1,13 +1,21 @@
+.adjust-line-height {
+  line-height: normal;
+}
+
 body {
-  background-color: #E2D7FF;
+  background-color: #FFFCED;
+background-image: url(http://www.transparenttextures.com/patterns/textured-paper.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */;
   color: #000000;
   font-family: Palatino, seriff, monospace;
-  margin: 10% 15%
+  margin: 10% 10%
   }
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #000000
-   
+    
+
 }
+
