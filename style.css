@@ -1,1 +1,13 @@
+body {
+  background-color: #E2D7FF;
+  color: #000000;
+  font-family: Palatino, seriff, monospace;
+  margin: 10% 15%
+  }
 
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #000000
+   
+}
